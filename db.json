@@ -1,0 +1,28 @@
+{
+  "testResults": [
+    {
+      "id": "2bf0",
+      "userId": "antonio82",
+      "mbti": "ESTJ",
+      "visibility": true
+    },
+    {
+      "id": "cec6",
+      "userId": "metalskin",
+      "mbti": "ESFJ",
+      "visibility": true
+    },
+    {
+      "id": "8ce2",
+      "userId": "gagamel",
+      "mbti": "ENFP",
+      "visibility": true
+    },
+    {
+      "id": "375a",
+      "userId": "jokerlist79",
+      "mbti": "ESTJ",
+      "visibility": false
+    }
+  ]
+}
