@@ -18,4 +18,4 @@
   * 결과보기 페이지 : 자신뿐만아니라 회원들의 MBTI결과를 리스트형태로 확인할 수 있으며 자신의 결과의 경우, 삭제 및 공개/비공개 여부 기능 제공 
 
 ## Vercel 배포 링크
-([링크](https://mbti-test-theta.vercel.app/))
+https://mbti-test-theta.vercel.app
